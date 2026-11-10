@@ -1,0 +1,17 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=YouTube Akış Okuyucu
+GenericName=YouTube RSS Reader
+GenericName[tr]=YouTube RSS Okuyucu
+Comment=Follow YouTube videos, Shorts and live streams with per-channel filters
+Comment[tr]=YouTube kanallarını normal video, Shorts ve canlı yayın ayrımıyla takip edin
+Exec=/usr/bin/ytrss %F
+TryExec=/usr/bin/ytrss
+Icon=ytrss
+Terminal=false
+Categories=Network;News;Feed;Qt;
+Keywords=YouTube;RSS;Atom;Shorts;Live;Video;
+StartupNotify=true
+StartupWMClass=ytrss
+MimeType=text/x-opml;

@@ -2,7 +2,20 @@
 
 A YouTube-focused desktop RSS reader with per-channel controls for **regular videos, Shorts and live streams**. Built with Python, PySide6/Qt 6 and SQLite, and developed on Fedora KDE/Wayland.
 
+**Linux only. Tested on Fedora 44 KDE Plasma/Wayland (x86_64). Windows and macOS are not currently supported.**
+
+**[Download the latest Linux release](https://github.com/bilalyusufersin/youtube-feed-reader/releases/latest)** · [Türkçe kurulum / Installation guide](INSTALL_LINUX.md)
+
 ![YouTube Feed Reader: dark three-pane interface, subscriptions, video durations and a selected video](docs/screenshots/main-window.png)
+
+## Download and install (Linux)
+
+| Your system | Download | Installation |
+| --- | --- | --- |
+| Fedora (tested on Fedora 44 KDE/Wayland, x86_64) | [Fedora RPM installer](https://github.com/bilalyusufersin/youtube-feed-reader/releases/download/v0.1.0/youtube-feed-reader-0.1.0-1.fc44.noarch.rpm) | `sudo dnf install ./youtube-feed-reader-0.1.0-1.fc44.noarch.rpm` |
+| Other Linux distributions (not separately verified) | [Linux source/install bundle](https://github.com/bilalyusufersin/youtube-feed-reader/releases/download/v0.1.0/youtube-feed-reader-0.1.0-linux-source.tar.gz) | Extract, open its folder in a terminal and run `./install.sh` without sudo. Requires Python 3.10+, venv/pip and internet. |
+
+After installation, open **YouTube Akış Okuyucu** from the application menu. The source bundle's installer copies the application into your user application directory and sets up its dependencies and menu entry. It is not a self-contained binary. See [INSTALL_LINUX.md](INSTALL_LINUX.md) for the full instructions and checksum verification.
 
 ## Features
 
@@ -20,7 +33,7 @@ Public channel feeds do not require a YouTube Data API key. Optional browser sub
 
 ## Run from source
 
-The application is currently distributed as source code. The development environment is **Fedora KDE/Wayland with Python 3.14**; other environments have not been verified.
+For development or a manual source checkout, use the steps below. The verified development environment is **Fedora 44 KDE/Wayland with Python 3.14**.
 
 Install Git and Python 3 if needed, then:
 
@@ -100,7 +113,7 @@ Tests cover classification fixtures, channel filtering, persistence and schema m
 - Feeds expose a limited recent-content window; this is not a complete channel-history archive.
 - Refreshing is periodic, so discovery and live-start notices are not guaranteed to be instantaneous.
 - YouTube responses and metadata extraction can change or fail. Some content may remain unclassified or unavailable.
-- There is no Flatpak/RPM/AppImage distribution package yet.
+- This release provides a Fedora RPM and a Linux source/install bundle. Flatpak/AppImage, Windows and macOS packages are not available.
 
 This started as a personal tool for following YouTube subscriptions. Bug reports and practical feature requests are welcome through [GitHub Issues](https://github.com/bilalyusufersin/youtube-feed-reader/issues). For bugs, include the OS, Python version, reproduction steps and the relevant error message; omit account credentials and browser cookies.
 
@@ -108,4 +121,6 @@ This started as a personal tool for following YouTube subscriptions. Bug reports
 
 **YouTube Akış Okuyucu**, YouTube aboneliklerini normal video, Shorts ve canlı yayın olarak ayırarak takip etmek için geliştirdiğim bir masaüstü uygulamasıdır. Her kanalın içerik türü tercihleri ayrı seçilebilir. Tarayıcıdan veya abonelik dosyalarından seçerek kanal aktarma, süre filtresi, Sonra İzle, izlendi/okundu/yıldızlı durumları ve yedekleme özelliklerini içerir.
 
-Yukarıdaki kurulum komutlarını sırasıyla çalıştırıp `python main.py` ile açabilirsiniz. Uygulama arayüzü Türkçedir. Fedora KDE/Wayland üzerinde geliştirilmiştir; YouTube akışlarının sınırlı son içerik penceresi ve türü doğrulanamayan içerikler gibi bilinen sınırlar yukarıda açıklanmıştır. Sorunları ve önerileri **Issues** bölümünden paylaşabilirsiniz.
+**Bu sürüm yalnızca Linux içindir; Windows ve macOS desteği yoktur.** Fedora 44 KDE/Wayland (x86_64) üzerinde doğrulanmıştır. [Releases bölümünden](https://github.com/bilalyusufersin/youtube-feed-reader/releases/latest) Fedora için `.rpm` paketini veya diğer Linux dağıtımlarında denemek için kurulum yardımcısı içeren `.tar.gz` arşivini indirebilirsiniz. [Türkçe kurulum adımları](INSTALL_LINUX.md).
+
+Uygulama arayüzü Türkçedir. YouTube akışlarının sınırlı son içerik penceresi ve türü doğrulanamayan içerikler gibi bilinen sınırlar yukarıda açıklanmıştır. Sorunları ve önerileri **Issues** bölümünden paylaşabilirsiniz.
