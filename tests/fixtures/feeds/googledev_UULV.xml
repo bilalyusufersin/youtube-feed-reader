@@ -1,0 +1,536 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns:yt="http://www.youtube.com/xml/schemas/2015" xmlns:media="http://search.yahoo.com/mrss/" xmlns="http://www.w3.org/2005/Atom">
+ <link rel="self" href="http://www.youtube.com/feeds/videos.xml?playlist_id=UULV_x5XG1OV2P6uZZ5FSM9Ttw"/>
+ <id>yt:playlist:UULV_x5XG1OV2P6uZZ5FSM9Ttw</id>
+ <yt:playlistId>UULV_x5XG1OV2P6uZZ5FSM9Ttw</yt:playlistId>
+ <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+ <title>Live streams</title>
+ <author>
+  <name>Google for Developers</name>
+  <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+ </author>
+ <published>2021-11-03T04:51:54+00:00</published>
+ <entry>
+  <id>yt:video:aqmpZocmR8o</id>
+  <yt:videoId>aqmpZocmR8o</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Developer Keynote (Google I/O '26)</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=aqmpZocmR8o"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2026-05-19T21:35:37+00:00</published>
+  <updated>2026-10-04T22:51:19+00:00</updated>
+  <media:group>
+   <media:title>Developer Keynote (Google I/O '26)</media:title>
+   <media:content url="https://www.youtube.com/v/aqmpZocmR8o?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/aqmpZocmR8o/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Learn about the latest updates to our developer products and platforms.
+
+00:00:00 Introduction
+00:02:18 Building Agents
+00:14:52 Antigravity
+00:26:08 Android
+00:41:52 Chrome 
+00:56:41 Closing
+
+To watch this keynote interpreted in American Sign Language (ASL), please click here: 
+https://youtube.com/watch?v=KPYtmPz5pbU
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+
+#GoogleIO 
+
+
+Event: Google I/O 2026</media:description>
+   <media:community>
+    <media:starRating count="5271" average="5.00" min="1" max="5"/>
+    <media:statistics views="386702"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:KPYtmPz5pbU</id>
+  <yt:videoId>KPYtmPz5pbU</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Developer Keynote (Google I/O '26) - American Sign Language</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=KPYtmPz5pbU"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2026-05-19T21:35:05+00:00</published>
+  <updated>2026-10-15T04:22:43+00:00</updated>
+  <media:group>
+   <media:title>Developer Keynote (Google I/O '26) - American Sign Language</media:title>
+   <media:content url="https://www.youtube.com/v/KPYtmPz5pbU?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/KPYtmPz5pbU/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Learn about the latest updates to our developer products and platforms.
+
+00:00:00 Introduction
+00:02:18 Building Agents
+00:14:52 Antigravity
+00:26:08 Android
+00:41:52 Chrome 
+00:56:41 Closing
+
+To watch this keynote without American Sign Language (ASL) interpretation, please click here:
+https://youtube.com/watch?v=aqmpZocmR8o
+
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+
+#GoogleIO 
+
+
+Event: Google I/O 2026</media:description>
+   <media:community>
+    <media:starRating count="263" average="5.00" min="1" max="5"/>
+    <media:statistics views="9531"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Bi-wi2q_Xog</id>
+  <yt:videoId>Bi-wi2q_Xog</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Building with Gemini 2.5 Flash Image (nano banana) in Google AI Studio</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Bi-wi2q_Xog"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-08-26T17:50:11+00:00</published>
+  <updated>2026-10-03T07:19:22+00:00</updated>
+  <media:group>
+   <media:title>Building with Gemini 2.5 Flash Image (nano banana) in Google AI Studio</media:title>
+   <media:content url="https://www.youtube.com/v/Bi-wi2q_Xog?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Bi-wi2q_Xog/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Explore the powerful new Gemini 2.5 Image Gen model (aka nano banana) and its integration with AI Studio in this in-depth live demonstration. See how vibe coding enables you to design and adapt image generation applets with ease, featuring precise edits, decor, and design capabilities. The session also includes an interactive Q&amp;A and a look at upcoming AI Studio updates.
+
+Chapters:
+0:00 - Intro and Demo: &quot;Past Forward&quot; App
+4:22 - Demo: &quot;Home Canvas&quot; for interior design
+13:00 - Demo: Photo editing app
+19:13 - AI Studio updates &amp; new model picker
+27:50 - Model deep dive with PM
+34:18 - More apps to remix
+37:22 - Sharing and deploying apps in AI Studio
+42:02 - Conclusion
+
+
+For more on our new model, check out this episode of Release Notes: https://www.youtube.com/watch?v=H6ZXujE1qBA
+
+Try coding with applets: ai.studio/apps 
+Follow AI Studio on X: @googleaistudio
+Subscribe to Google for Developers → https://goo.gle/developers 
+
+Speaker: Logan Kilpatrick, Ammaar Reshi, Kat Kampf
+Products Mentioned:  Google AI, Gemini</media:description>
+   <media:community>
+    <media:starRating count="1109" average="5.00" min="1" max="5"/>
+    <media:statistics views="41559"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:0qhKmtsfBaw</id>
+  <yt:videoId>0qhKmtsfBaw</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Google Wallet Passes: Are you making the most of your links?</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=0qhKmtsfBaw"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-06-18T16:46:22+00:00</published>
+  <updated>2026-10-05T13:30:18+00:00</updated>
+  <media:group>
+   <media:title>Google Wallet Passes: Are you making the most of your links?</media:title>
+   <media:content url="https://www.youtube.com/v/0qhKmtsfBaw?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/0qhKmtsfBaw/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Links within your Google Wallet passes can be a powerful tool, but are you using them to their full potential? Whether you're building passes for loyalty cards, event tickets, or more, this live stream will provide you with the technical insights needed to create a more connected and valuable experience for your users.
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="115" average="5.00" min="1" max="5"/>
+    <media:statistics views="3830"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:9_GiWxsIwrE</id>
+  <yt:videoId>9_GiWxsIwrE</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Google Wallet at I/O’25: Your essential recap with Q&amp;A</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=9_GiWxsIwrE"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-06-10T17:06:52+00:00</published>
+  <updated>2026-10-30T14:47:22+00:00</updated>
+  <media:group>
+   <media:title>Google Wallet at I/O’25: Your essential recap with Q&amp;A</media:title>
+   <media:content url="https://www.youtube.com/v/9_GiWxsIwrE?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/9_GiWxsIwrE/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Curious about the future of your digital wallet after Google I/O '25? Join our live stream for an exclusive recap of all the major Google Wallet announcements. We'll hit the highlights of exciting new features, from expanded digital ID support and Google Wallet for families to enhanced travel functionalities and new developer APIs. This is your opportunity to ask questions, share your insights, and comment live on the impact of these updates.
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="146" average="5.00" min="1" max="5"/>
+    <media:statistics views="5347"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bcVhGOKF628</id>
+  <yt:videoId>bcVhGOKF628</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Google I/O '25 Developer Keynote - American Sign Language</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bcVhGOKF628"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-05-20T21:47:27+00:00</published>
+  <updated>2026-10-05T00:52:29+00:00</updated>
+  <media:group>
+   <media:title>Google I/O '25 Developer Keynote - American Sign Language</media:title>
+   <media:content url="https://www.youtube.com/v/bcVhGOKF628?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bcVhGOKF628/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Learn about the latest updates to our developer products and platforms.
+
+00:00:00 Introduction
+00:01:19 Building with Gemini
+00:15:17 Android
+00:30:26 Web
+00:48:48 Firebase Studio
+00:56:25 Gemma
+01:07:37 Closing 
+
+To watch this keynote without American Sign Language (ASL) interpretation, please click here:
+https://youtube.com/watch?v=GjvgtwSOCao
+
+Subscribe to Google Developers → https://goo.gle/developers
+
+#GoogleIO 
+
+Event: Google I/O 2025</media:description>
+   <media:community>
+    <media:starRating count="169" average="5.00" min="1" max="5"/>
+    <media:statistics views="7452"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:GjvgtwSOCao</id>
+  <yt:videoId>GjvgtwSOCao</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Google I/O '25 Developer Keynote</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=GjvgtwSOCao"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-05-20T21:47:19+00:00</published>
+  <updated>2026-10-28T05:06:17+00:00</updated>
+  <media:group>
+   <media:title>Google I/O '25 Developer Keynote</media:title>
+   <media:content url="https://www.youtube.com/v/GjvgtwSOCao?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/GjvgtwSOCao/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Learn about the latest updates to our developer products and platforms.
+
+00:00:00 Introduction
+00:01:19 Building with Gemini
+00:15:17 Android
+00:30:26 Web
+00:48:48 Firebase Studio
+00:56:25 Gemma
+01:07:37 Closing 
+
+To watch this keynote interpreted in American Sign Language (ASL), please click here: 
+https://youtube.com/watch?v=bcVhGOKF628
+
+
+Subscribe to Google Developers → https://goo.gle/developers
+
+#GoogleIO 
+
+Event: Google I/O 2025</media:description>
+   <media:community>
+    <media:starRating count="8515" average="5.00" min="1" max="5"/>
+    <media:statistics views="846108"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:n1mPxhdZ0kc</id>
+  <yt:videoId>n1mPxhdZ0kc</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Day in the Life of a Google Wallet Tech Lead</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=n1mPxhdZ0kc"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-05-08T17:05:25+00:00</published>
+  <updated>2026-10-05T09:36:59+00:00</updated>
+  <media:group>
+   <media:title>Day in the Life of a Google Wallet Tech Lead</media:title>
+   <media:content url="https://www.youtube.com/v/n1mPxhdZ0kc?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/n1mPxhdZ0kc/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Curious about what it's like to be at the forefront of Google’s digital wallet? Join us for an exclusive behind-the-scenes look into the daily life of Gokmen Goksel, a Tech Lead for Google Wallet. In this live stream, Gokmen will walk us through his day, offering insights into the challenges, achievements, and collaborative spirit involved in building and maintaining Google Wallet. Don't miss this unique opportunity to ask Gokmen your questions live!
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="92" average="5.00" min="1" max="5"/>
+    <media:statistics views="4031"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:Bj7ODzcNSHY</id>
+  <yt:videoId>Bj7ODzcNSHY</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Tracking Google Wallet Pass Usage with API Callbacks</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=Bj7ODzcNSHY"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-04-24T16:38:41+00:00</published>
+  <updated>2026-10-01T04:59:13+00:00</updated>
+  <media:group>
+   <media:title>Tracking Google Wallet Pass Usage with API Callbacks</media:title>
+   <media:content url="https://www.youtube.com/v/Bj7ODzcNSHY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/Bj7ODzcNSHY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>How many of your Google Wallet passes are actually out there or being used? Go beyond simple issuance and learn how to track pass lifecycle events using Google Wallet API callbacks. This session is your guide to using the Google Wallet API's callback feature for accurate pass counting. We'll cover the essentials: setting up your callback URL, understanding the data Google sends when a pass is added or deleted, and implementing server-side logic to maintain a real-time count. Get practical tips and insights to start tracking your pass inventory effectively today.
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="70" average="5.00" min="1" max="5"/>
+    <media:statistics views="3331"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:-3pdAavNepg</id>
+  <yt:videoId>-3pdAavNepg</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Look Ma, no keys! Signing JWTs with the Google Cloud API</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=-3pdAavNepg"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-03-27T16:39:19+00:00</published>
+  <updated>2026-10-03T17:54:56+00:00</updated>
+  <media:group>
+   <media:title>Look Ma, no keys! Signing JWTs with the Google Cloud API</media:title>
+   <media:content url="https://www.youtube.com/v/-3pdAavNepg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i2.ytimg.com/vi/-3pdAavNepg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ditch the key-management headaches! Ever wished you could sign JWTs without juggling sensitive keys? In this session we're going to show you exactly how to do it. We'll unleash the power of Google Cloud APIs, revealing a cleaner, more secure way to generate those crucial JWTs. Whether you're signing Google Wallet passes, building microservices, or anything in between, you'll walk away with the skills to supercharge your security and simplify your workflow.</media:description>
+   <media:community>
+    <media:starRating count="76" average="5.00" min="1" max="5"/>
+    <media:statistics views="3022"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:_GYgrWe_qDA</id>
+  <yt:videoId>_GYgrWe_qDA</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Collect payments on Android with Checkout.com and Google Pay</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=_GYgrWe_qDA"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-03-19T16:47:51+00:00</published>
+  <updated>2026-10-04T01:40:51+00:00</updated>
+  <media:group>
+   <media:title>Collect payments on Android with Checkout.com and Google Pay</media:title>
+   <media:content url="https://www.youtube.com/v/_GYgrWe_qDA?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i4.ytimg.com/vi/_GYgrWe_qDA/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this Google Pay livestream, we’ll integrate Checkout.com and Google Pay and use it to collect payments on a basic Android application. The integration will be based on the most widely preferred path by developers.
+
+Connect with us:
+
+Join the conversation in the #payments channel on Discord → https://goo.gle/payments-dev-community 
+Watch more Live Google Pay integrations on Android → https://goo.gle/live-google-pay  
+Follow @GooglePayDevs on X for more content like this → https://goo.gle/GooglePayDevs   
+Subscribe to Google for Developers → https://goo.gle/developers   
+
+Get support: 
+
+For assistance with your implementation, create a support ticket from the Google Pay &amp; Wallet Console →  https://goo.gle/4g36MQn 
+
+Speaker: Dominik Mengelt, Jose Ugia, Fabio Insolia, Chintan Soni, Sunghun Jung, Jheng-Hao Lin
+Products Mentioned: Google Pay
+
+#GooglePay #Android #payments #developerchallenge 
+
+Products Mentioned: Google Pay</media:description>
+   <media:community>
+    <media:starRating count="122" average="5.00" min="1" max="5"/>
+    <media:statistics views="5076"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:6_gK5KvlmGg</id>
+  <yt:videoId>6_gK5KvlmGg</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Level up your Google Wallet integration: Pass sharing best practices for developers</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=6_gK5KvlmGg"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-02-20T17:42:18+00:00</published>
+  <updated>2026-10-01T02:07:23+00:00</updated>
+  <media:group>
+   <media:title>Level up your Google Wallet integration: Pass sharing best practices for developers</media:title>
+   <media:content url="https://www.youtube.com/v/6_gK5KvlmGg?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/6_gK5KvlmGg/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Ready to take your Google Wallet sharing game to the next level? Join us LIVE as we dive deep into best practices for creating and sharing passes. We'll cover everything from pre-creating passes with the API, creating embedded passes in JWTs, sharing multiple passes, and more! This session is packed with practical tips and tricks specifically for developers, including code examples and Q&amp;A. Get your questions ready! 
+
+Resources:
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="82" average="5.00" min="1" max="5"/>
+    <media:statistics views="3227"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:frzE0zIKs4w</id>
+  <yt:videoId>frzE0zIKs4w</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Unlock more value with Google Wallet Passes: New upsells, links, and more!</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=frzE0zIKs4w"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-02-06T17:40:21+00:00</published>
+  <updated>2026-10-04T16:01:32+00:00</updated>
+  <media:group>
+   <media:title>Unlock more value with Google Wallet Passes: New upsells, links, and more!</media:title>
+   <media:content url="https://www.youtube.com/v/frzE0zIKs4w?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/frzE0zIKs4w/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Join us for a live deep dive into the latest Google Wallet feature: Value Added Opportunities! This livestream will explore how you can get more out of the passes your users save in Google Wallet, and how your business can leverage these features to reach more customers.
+
+With this feature, you’ll be able to provide you users convenient access to relevant offers, upgrades, and information directly from their saved passes.
+
+If you’re looking to maximize your users’ engagement with Google Wallet, this livestream is for you. Get all your questions answered live and discover how Value Added Opportunities can enhance your experience!
+
+Resources:
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="75" average="5.00" min="1" max="5"/>
+    <media:statistics views="2968"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:L3JlB7ogKQY</id>
+  <yt:videoId>L3JlB7ogKQY</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Keep it safe! Google Wallet security features for developers</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=L3JlB7ogKQY"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-01-23T17:32:03+00:00</published>
+  <updated>2026-10-04T03:09:21+00:00</updated>
+  <media:group>
+   <media:title>Keep it safe! Google Wallet security features for developers</media:title>
+   <media:content url="https://www.youtube.com/v/L3JlB7ogKQY?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i1.ytimg.com/vi/L3JlB7ogKQY/hqdefault.jpg" width="480" height="360"/>
+   <media:description>Say goodbye to ticket fraud and hello to peace of mind with Google Wallet's enhanced security features for passes!  We're talking about account-restricted passes that are locked to a user's Google account, making sharing impossible for those pesky scalpers.  Plus, with  dynamic, rotating barcodes that change regularly, counterfeiting becomes a nightmare. And to top it off, a shimmering security animation adds an extra layer of &quot;wow&quot; and protection. Developers can now create and manage passes that are even more secure, boosting user trust and leaving fraudsters in the dust.
+
+Resources:
+
+Subscribe to Google for Developers → https://goo.gle/developers
+Subscribe to the Google Wallet Developer Newsletter → https://g.co/wallet/newsletter
+
+
+Speaker: Edson Yanaga
+Products Mentioned: Google Wallet</media:description>
+   <media:community>
+    <media:starRating count="94" average="5.00" min="1" max="5"/>
+    <media:statistics views="2956"/>
+   </media:community>
+  </media:group>
+ </entry>
+ <entry>
+  <id>yt:video:bHSoCSJadQM</id>
+  <yt:videoId>bHSoCSJadQM</yt:videoId>
+  <yt:channelId>UC_x5XG1OV2P6uZZ5FSM9Ttw</yt:channelId>
+  <title>Integrate Google Pay with Jetpack Compose on Android</title>
+  <link rel="alternate" href="https://www.youtube.com/watch?v=bHSoCSJadQM"/>
+  <author>
+   <name>Google for Developers</name>
+   <uri>https://www.youtube.com/channel/UC_x5XG1OV2P6uZZ5FSM9Ttw</uri>
+  </author>
+  <published>2025-01-22T17:55:13+00:00</published>
+  <updated>2026-10-15T03:49:37+00:00</updated>
+  <media:group>
+   <media:title>Integrate Google Pay with Jetpack Compose on Android</media:title>
+   <media:content url="https://www.youtube.com/v/bHSoCSJadQM?version=3" type="application/x-shockwave-flash" width="640" height="390"/>
+   <media:thumbnail url="https://i3.ytimg.com/vi/bHSoCSJadQM/hqdefault.jpg" width="480" height="360"/>
+   <media:description>In this Google Pay livestream, your hosts Jose Ugia and Dominik Mengelt give you a deep dive on how to integrate Google Pay using Kotlin and Jetpack Compose.
+
+Connect with us:
+
+Join the conversation in the #payments channel on Discord → https://goo.gle/payments-dev-community 
+Watch more Live Google Pay integrations on Android → https://goo.gle/live-google-pay  
+Follow @GooglePayDevs on X for more content like this → https://goo.gle/GooglePayDevs   
+Subscribe to Google for Developers → https://goo.gle/developers   
+
+Get support: 
+
+For assistance with your implementation, create a support ticket from the Google Pay &amp; Wallet Console →  https://goo.gle/4g36MQn 
+
+
+Speaker: Dominik Mengelt, Jose Ugia
+Products Mentioned: Google Pay
+
+#GooglePay #Android #payments #developer</media:description>
+   <media:community>
+    <media:starRating count="120" average="5.00" min="1" max="5"/>
+    <media:statistics views="4315"/>
+   </media:community>
+  </media:group>
+ </entry>
+</feed>
